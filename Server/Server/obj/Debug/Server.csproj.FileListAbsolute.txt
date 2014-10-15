@@ -1,0 +1,12 @@
+C:\Users\K04\Desktop\测试\Server\Server\bin\Debug\Server.exe.config
+C:\Users\K04\Desktop\测试\Server\Server\bin\Debug\Server.exe
+C:\Users\K04\Desktop\测试\Server\Server\bin\Debug\Server.pdb
+C:\Users\K04\Desktop\测试\Server\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+C:\Users\K04\Desktop\测试\Server\Server\obj\Debug\Server.exe
+C:\Users\K04\Desktop\测试\Server\Server\obj\Debug\Server.pdb
+C:\Users\hc\Desktop\Server\Server\bin\Debug\Server.exe.config
+C:\Users\hc\Desktop\Server\Server\obj\Debug\Server.exe
+C:\Users\hc\Desktop\Server\Server\obj\Debug\Server.pdb
+C:\Users\hc\Desktop\Server\Server\bin\Debug\Server.exe
+C:\Users\hc\Desktop\Server\Server\bin\Debug\Server.pdb
+C:\Users\hc\Desktop\Server\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache

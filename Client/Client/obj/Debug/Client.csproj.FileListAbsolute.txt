@@ -1,0 +1,12 @@
+C:\Users\K04\Desktop\测试\Client\Client\bin\Debug\Client.exe.config
+C:\Users\K04\Desktop\测试\Client\Client\bin\Debug\Client.exe
+C:\Users\K04\Desktop\测试\Client\Client\bin\Debug\Client.pdb
+C:\Users\K04\Desktop\测试\Client\Client\obj\Debug\Client.exe
+C:\Users\K04\Desktop\测试\Client\Client\obj\Debug\Client.pdb
+C:\Users\K04\Desktop\测试\Client\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+C:\Users\hc\Desktop\Client\Client\bin\Debug\Client.exe.config
+C:\Users\hc\Desktop\Client\Client\obj\Debug\Client.exe
+C:\Users\hc\Desktop\Client\Client\obj\Debug\Client.pdb
+C:\Users\hc\Desktop\Client\Client\bin\Debug\Client.exe
+C:\Users\hc\Desktop\Client\Client\bin\Debug\Client.pdb
+C:\Users\hc\Desktop\Client\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
